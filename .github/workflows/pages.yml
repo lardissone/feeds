@@ -6,18 +6,21 @@ on:
       - main
   schedule:
     # * is a special character in YAML so you have to quote this string
-    # Run every day at every hour:
-    - cron: "30 * * * *"
+    # Run every 30 minutes:
+    - cron: "*/30 * * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 env:
   CI: true
 jobs:
   publish-feeds:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
-      - uses: actions/checkout@v2.3.4
+      - uses: actions/checkout@v4
       - run: npx playwright install --with-deps firefox
       # GitHub Actions unfortunately does not support retries;
       # this is a cumbersome method of retrying twice in case of errors:
