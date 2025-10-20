@@ -1,7 +1,7 @@
 [default]
 timeout = 30
 
-[printables_vc_design]
+[printables_vcdesign]
 title = "Printables — VC Design"
 url = "https://www.printables.com/@VC_Design/models"
 entrySelector = "article.card"
