@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.printables.com/@VC_Design/models</id>
     <title>Printables — VC Design</title>
-    <updated>2025-10-25T04:06:28.017Z</updated>
+    <updated>2025-10-25T06:05:27.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.printables.com/@VC_Design/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ratchet Strap Corner Protector]]></title>
+        <id>https://www.printables.com/model/1457491-ratchet-strap-corner-protector</id>
+        <link href="https://www.printables.com/model/1457491-ratchet-strap-corner-protector"/>
+        <updated>2025-10-25T06:05:26.487Z</updated>
+        <content type="html"><![CDATA[<!--[--><!--[--><source srcset="https://media.printables.com/media/prints/12cef76b-7623-40a3-9178-d26e14714217/images/10987984_059439bd-6275-418f-84ca-30be5e4d84d8_0bd94987-57cd-4a00-b835-9c16ae5082d1/thumbs/inside/320x240/jpg/v6170.webp 1x, https://media.printables.com/media/prints/12cef76b-7623-40a3-9178-d26e14714217/images/10987984_059439bd-6275-418f-84ca-30be5e4d84d8_0bd94987-57cd-4a00-b835-9c16ae5082d1/thumbs/inside/640x480/jpg/v6170.webp 2x"><!--]--><!--]--> <img src="https://media.printables.com/media/prints/12cef76b-7623-40a3-9178-d26e14714217/images/10987984_059439bd-6275-418f-84ca-30be5e4d84d8_0bd94987-57cd-4a00-b835-9c16ae5082d1/thumbs/inside/320x240/jpg/v6170.webp" alt="Image preview" loading="lazy" class="svelte-11pdzs1 loading" style="width: 100%; max-height: none;">]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Corner Protector Guard]]></title>
         <id>https://www.printables.com/model/1446987-corner-protector-guard</id>
@@ -249,12 +256,5 @@
         <link href="https://www.printables.com/model/1252497-keychain-spinner"/>
         <updated>2025-10-20T16:13:54.646Z</updated>
         <content type="html"><![CDATA[<!--[--><!--[--><source srcset="https://media.printables.com/media/prints/b5907e9c-e029-4649-ad9f-3c0f03d6eb3a/images/9405950_a62184a8-d3f8-4249-a6f3-c62983755165_2c4fd2a7-9bc0-438a-bc62-c3f6df902f8f/thumbs/inside/320x240/png/v417.webp 1x, https://media.printables.com/media/prints/b5907e9c-e029-4649-ad9f-3c0f03d6eb3a/images/9405950_a62184a8-d3f8-4249-a6f3-c62983755165_2c4fd2a7-9bc0-438a-bc62-c3f6df902f8f/thumbs/inside/640x480/png/v417.webp 2x"><!--]--><!--]--> <img src="https://media.printables.com/media/prints/b5907e9c-e029-4649-ad9f-3c0f03d6eb3a/images/9405950_a62184a8-d3f8-4249-a6f3-c62983755165_2c4fd2a7-9bc0-438a-bc62-c3f6df902f8f/thumbs/inside/320x240/png/v417.webp" alt="Image preview" loading="lazy" class="svelte-11pdzs1 loading" style="width: 100%; max-height: none;">]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keychain Carabiner]]></title>
-        <id>https://www.printables.com/model/1250215-keychain-carabiner</id>
-        <link href="https://www.printables.com/model/1250215-keychain-carabiner"/>
-        <updated>2025-10-20T16:13:54.648Z</updated>
-        <content type="html"><![CDATA[<!--[--><!--[--><source srcset="https://media.printables.com/media/prints/acb2a5dc-0155-4982-9827-b500e8fe0e94/images/9389275_bdda76da-7cac-40ef-933c-c25f4fd4e389_238ce1ae-8aa8-40db-b6e8-2bf88cfb2438/thumbs/inside/320x240/png/v1013.webp 1x, https://media.printables.com/media/prints/acb2a5dc-0155-4982-9827-b500e8fe0e94/images/9389275_bdda76da-7cac-40ef-933c-c25f4fd4e389_238ce1ae-8aa8-40db-b6e8-2bf88cfb2438/thumbs/inside/640x480/png/v1013.webp 2x"><!--]--><!--]--> <img src="https://media.printables.com/media/prints/acb2a5dc-0155-4982-9827-b500e8fe0e94/images/9389275_bdda76da-7cac-40ef-933c-c25f4fd4e389_238ce1ae-8aa8-40db-b6e8-2bf88cfb2438/thumbs/inside/320x240/png/v1013.webp" alt="Image preview" loading="lazy" class="svelte-11pdzs1 loading" style="width: 100%; max-height: none;">]]></content>
     </entry>
 </feed>
